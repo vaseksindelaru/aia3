@@ -1,0 +1,1 @@
+# Indicadores de velocidad, densidad, Cumulative Delta, Imbalance, etc.
